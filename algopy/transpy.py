@@ -3,7 +3,7 @@
 Created on Jul. 2022
 @author: BobTheHuge
 
-Import your python files with his absolute path.
+Import your python files with their absolute path.
 """
 
 import importlib.util
